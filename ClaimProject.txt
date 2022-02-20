@@ -4,3 +4,4 @@
 4.Diagnostic the Patient Problems
 5.Create the Claim 
 6.Close the Claim
+7.Adding Providers for the Members
