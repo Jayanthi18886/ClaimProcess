@@ -3,5 +3,7 @@
 3.Check Inpatient or OutPatient
 4.Diagnostic the Patient Problems
 5.Create the Claim 
-6.Close the Claim
-7.Adding Providers for the Members
+6.Adding Providers for the Members
+7.Implementing Hospitals Details
+8.Diagnosis diseases Based on Patient History
+9.Close Claim
