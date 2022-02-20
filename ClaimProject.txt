@@ -1,0 +1,6 @@
+1.Create claim processing for Members
+2.Separate Members by Age
+3.Check Inpatient or OutPatient
+4.Diagnostic the Patient Problems
+5.Create the Claim 
+6.Close the Claim
